@@ -10,9 +10,9 @@ Ans) In machine learning dimension refer to the number of independent features i
      So Dimensionality reduction is a technique that reduces the amount data without losing information
      and further eliminating the curse of dimensionality.
 
-    There are few important techniques in dimensionality reduction
-    1) principal component Analysis (PCA)
-    2) Linear Discriminant Analysis (LDA)
+     There are few important techniques in dimensionality reduction
+       1) principal component Analysis (PCA)
+       2) Linear Discriminant Analysis (LDA)
 
      principal component Analysis(PCA)
 
